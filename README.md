@@ -25,8 +25,7 @@ or
 > npm update
 
 ## FEEDBACK & REPORT BUGS
-* https://github.com/ntkhang03/Goat-Bot/issues
-* https://www.facebook.com/groups/399521505099456/?ref=share
+* https://github.com/UserminhkhanhDVFB/bot-squirrel.github.io/issues
 ## CONTACT
   [LUONG MINH KHANH](https://facebook.com/user.luongminhkhanh)
 
