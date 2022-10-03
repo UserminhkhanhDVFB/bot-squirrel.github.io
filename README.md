@@ -5,12 +5,6 @@
   <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ntkhang3.Goat-Bot">
 </p>
 
-## HOW TO INSTALL
-### Video
-* Installation Instructions in hosting replit: [click here](https://youtu.be/PIjtrHXLakE)
-* Installation Instructions in VPS: [click here](https://youtu.be/wo8Pz_5N-ug)
-[![IMAGE_ALT](https://i.imgur.com/n4svD1I.png)](https://youtu.be/PIjtrHXLakE)
-
 ### Bên dưới là tóm tắt cách cái đặt và sử dụng bot:
 * Bước 1: cài đặt nodejs
 * Bước 2: clone project về máy
@@ -34,11 +28,11 @@ or
 * https://github.com/ntkhang03/Goat-Bot/issues
 * https://www.facebook.com/groups/399521505099456/?ref=share
 ## CONTACT
-[NTKhang](https://facebook.com/100010382497517)
+  [LUONG MINH KHANH](https://facebook.com/user.luongminhkhanh)
 
 ## DONATE ME
-* MB Bank: 0789629831 (Nguyễn Thành Khang)
-* Momo: 0789629831 (Nguyễn Thành Khang)
+* MB Bank: 205686789999 (LUONG MINH KHANH)
+* Momo: 0962642005 (LUONG MINH KHANH)
 
 ## THANKS FOR USING MY PROJECT
 ![failed image](https://www.english-learning.net/wp-content/uploads/2018/03/Thank-you.jpg)
