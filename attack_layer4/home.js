@@ -18,6 +18,8 @@ if(!args[0]) {
 	.setColor('RANDOM')
 	.setTitle('WARRING')
 	.setDescription("`Ex ;home 1.1.1.1 80 60`")
+	.setFooter("Please do not attack government server!")
+	message.channel.send(embed1);
 	return;
 	}
 
